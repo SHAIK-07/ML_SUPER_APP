@@ -8,10 +8,10 @@ ML_super_APP is a powerful and user-friendly Streamlit-based application designe
 ML_super_APP/
 ├── Home.py                   # 🏠 Main file for the homepage
 ├── pages/
-│   ├── ml_supervised_app.py   # 🤖 Supervised learning application
-│   ├── ml_unsupervised_app.py # 🔍 Unsupervised learning application
-│   ├── imbalance_dataset_app.py   # ⚖️ Imbalanced dataset handling application
-│   ├── feature_selection_app.py   # ✂️ Feature selection application
+│   ├── ML_Supervised_App.py   # 🤖 Supervised learning application
+│   ├── ML_Unsupervised_App.py # 🔍 Unsupervised learning application
+│   ├── Imbalance_DataSet_App.py   # ⚖️ Imbalanced dataset handling application
+│   ├── Feature_Selection_App.py   # ✂️ Feature selection application
 ```
 
 #### 1. Home.py
@@ -69,13 +69,13 @@ This folder contains specialized modules tailored for different machine learning
 Clone the repository:
 
 ```sh
-git clone https://github.com/SHAIK-07/ML_super_APP.git
+git clone https://github.com/SHAIK-07/ML_SUPER_APP.git
 ```
 
 Navigate to the project directory:
 
 ```sh
-cd ML_super_APP
+cd ML_SUPER_APP
 ```
 
 Install dependencies:
