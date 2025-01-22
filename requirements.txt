@@ -9,3 +9,4 @@ streamlit-pandas-profiling
 imblearn
 plotly
 xgboost
+setuptools
