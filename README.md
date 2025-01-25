@@ -1,6 +1,6 @@
 ## ML_super_APP: 🚀 Your Ultimate Machine Learning Assistant
 
-ML_super_APP is a powerful and user-friendly Streamlit-based application designed to make machine learning accessible and efficient. Whether you're tackling supervised or unsupervised learning, handling imbalanced datasets, or selecting the best features, this app has got you covered! 🎯
+ML_super_APP is a powerful and user-friendly Streamlit-based Application designed to make machine learning accessible and efficient. Whether you're tackling supervised or unsupervised learning, handling imbalanced datasets, or selecting the best features, this app has got you covered! 🎯
 
 ### 📂 Directory Structure
 
