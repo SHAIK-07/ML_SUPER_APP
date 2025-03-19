@@ -110,6 +110,10 @@ Follow the step-by-step instructions within each module to process your data and
 - **Interactive Visualizations:** Charts and plots to enhance understanding. 📊
 - **Highly Customizable:** Modify the code to fit your specific needs. ✨
 
+## DEMO 🎥
+
+[ML APPLICATION](https://mlsuperapp-nwx5guce9masdhsycxzchu.streamlit.app/)
+
 ### 🤝 Contributing
 
 We welcome contributions! If you have suggestions or find issues, feel free to submit an issue or create a pull request. 💡
